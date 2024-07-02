@@ -41,11 +41,12 @@ body {
     padding-left: 2cm;
     color: whitesmoke;
     font-size: 20px;
+    image-resolution: 10px;
     /* Add the styles here */
   }
   
   .profile_name .contact_info {
-    font-size: 15px;
+    font-size:17px;
     font-style: italic;
     display: flex;
     align-items: center;
@@ -53,7 +54,7 @@ body {
   }
   
   .contact_info img {
-    width:25px;
+    width: 65px;
     margin-right: 10px;
     float:left;
   }
